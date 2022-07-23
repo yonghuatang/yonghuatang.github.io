@@ -1,0 +1,45 @@
+body {
+    background-image: url("bg1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: mintcream;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Albert Sans', sans-serif;
+}
+
+p {
+    color: mintcream;
+    font-size: 22px;
+    text-align: center;
+    margin: 0px;
+    font-family: 'Albert Sans', sans-serif;
+}
+
+.quote {
+    color: mistyrose;
+    font-size: 52px;
+    text-align: center;
+    padding-top: 80px;
+    font-family: 'Parisienne', cursive;
+}
+
+.author {
+    color: mistyrose;
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Parisienne', cursive;
+}
+
+footer {
+    color: mintcream;
+    font-size: 15px;
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+    font-family: 'Space Mono', monospace;
+}
